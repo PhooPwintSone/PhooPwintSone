@@ -27,10 +27,10 @@ I am a detail-oriented mobile developer based in Yangon, specializing in buildin
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📂 Featured Projects
-*   **[Yomi Board](https://github.com/PhooPwintSone/yomi-board)**: A comprehensive Kanban-style task management app built with Flutter, Supabase, and BLoC for state and theme management.
-*   **[Mari Customer App](https://github.com/PhooPwintSone/Mari_Customer_App)**: A consumer-facing nail salon booking application managing state with Provider and connecting to backend REST APIs.
-*   **[Cross-Platform Mini-Blog](https://github.com/PhooPwintSone/mini_blog_app_web)**: A responsive blog app optimized for Web and Android, featuring offline reading support via Hive.
-*   **[Habit Tracker](https://github.com/PhooPwintSone/habit_tracker)**: A Dart-based application focused on daily routine tracking and consistency.
+*   **[Yomi Board](https://github.com/PhooPwintSone/yomi-board)**:
+*   **[Mari Customer App](https://github.com/PhooPwintSone/Mari_Customer_App)**:
+*   **[Cross-Platform Mini-Blog](https://github.com/PhooPwintSone/mini_blog_app_web)**: 
+*   **[Habit Tracker](https://github.com/PhooPwintSone/habit_tracker)**:
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/phoopwintsone](https://www.linkedin.com/in/phoopwintsone)
