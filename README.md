@@ -1,41 +1,78 @@
-# Hi there, I'm Phoo Pwint Sone! 👋
+# Hi, I'm Phoo Pwint Sone 👋
 
-**Junior Mobile Developer @ Digital Base** | **Flutter & Dart Enthusiast**
+### Junior Flutter Developer | Flutter & Dart
 
-I am a detail-oriented mobile developer based in Yangon, specializing in building responsive, cross-platform applications. I enjoy translating complex UI/UX designs into pixel-perfect functional apps and exploring robust state management architectures.
+I'm a Junior Flutter Developer at **Digital Base**, based in Yangon, Myanmar. I enjoy building cross-platform mobile applications, creating reusable UI components, and turning UI/UX designs into responsive, functional experiences.
 
-### 🚀 About Me
-- 💼 Currently working as a **Junior Mobile Developer** at Digital Base.
-- 🛠️ Building and maintaining cross-platform apps using **Flutter & Dart**.
-- 🧠 Deeply focused on state management (**BLoC, Cubit, Provider**) and backend integrations (**Supabase, Firebase, REST APIs**).
-- 🎯 Goal: Continuously master modern Flutter development workflows and build highly performant, user-centric mobile applications.
+I'm continuously improving my skills in **state management, REST API integration, Firebase, and Clean Architecture** while building practical projects and publishing reusable Flutter packages.
 
-### 💻 Tech Stack
-**Mobile Development:**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- 💼 Junior Mobile Developer at Digital Base
+- 📱 Developing cross-platform applications with Flutter and Dart
+- 🔌 Working with REST APIs and backend integrations
+- 🧩 Exploring scalable architecture and maintainable code
+- 📦 Published Flutter packages on pub.dev
+- 🌏 Interested in international remote Flutter opportunities
 
-**Backend & BaaS:**
+---
+
+### 🚀 Published Flutter Packages
+
+<a href="https://pub.dev/packages/curved_toggle_tabs">
+  <img src="https://img.shields.io/pub/v/curved_toggle_tabs?label=curved_toggle_tabs&logo=dart&color=0175C2" alt="curved_toggle_tabs version" />
+</a>
+
+**[curved_toggle_tabs](https://pub.dev/packages/curved_toggle_tabs)**
+
+A customizable Flutter widget featuring smooth, animated S-curve toggle tabs.
+
+<a href="https://pub.dev/packages/loader_gallery">
+  <img src="https://img.shields.io/pub/v/loader_gallery?label=loader_gallery&logo=dart&color=0175C2" alt="loader_gallery version" />
+</a>
+
+**[loader_gallery](https://pub.dev/packages/loader_gallery)**
+
+A collection of 10 customizable loading animations for Flutter applications.
+
+---
+
+### 🛠️ Tech Stack
+
+**Mobile Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Backend & Database**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Design:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+**State Management & Architecture**
+
+`BLoC` · `Cubit` · `Provider` · `Clean Architecture`
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
 
 ### 📂 Featured Projects
-*   **[Yomi Board](https://github.com/PhooPwintSone/yomi-board)**:
-*   **[Mari Customer App](https://github.com/PhooPwintSone/Mari_Customer_App)**:
-*   **[Cross-Platform Mini-Blog](https://github.com/PhooPwintSone/mini_blog_app_web)**: 
-*   **[Habit Tracker](https://github.com/PhooPwintSone/habit_tracker)**:
 
-### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/phoopwintsone](https://www.linkedin.com/in/phoopwintsone)
+- **[Yomi Board](https://github.com/PhooPwintSone/yomi-board)** — A project showcasing my application development skills.
+- **[Mari Customer App](https://github.com/PhooPwintSone/Mari_Customer_App)** — A customer-facing application project.
+- **[Cross-Platform Mini-Blog](https://github.com/PhooPwintSone/mini_blog_app_web)** — A mini-blog project exploring cross-platform development.
+- **[Habit Tracker](https://github.com/PhooPwintSone/habit_tracker)** — A project focused on habit tracking.
+
+---
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [Phoo Pwint Sone](https://www.linkedin.com/in/phoopwintsone)
 - **Email:** maphoopwintsone@gmail.com
 
 ---
-*“Always eager to learn new development skills and build smooth, user-friendly experiences.”*
-"Thank you for visiting ..! "
+
+*Always learning, building, and improving — one Flutter project at a time.*
